@@ -1,3 +1,6 @@
+### This code was for an older version of Polymarket and is no longer supported or updated.
+
+
 # trade-cli
 Simple cli tool for trading on PolyMarket
 
